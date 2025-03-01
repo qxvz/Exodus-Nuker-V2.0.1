@@ -11,7 +11,7 @@ This is the original repository for Exodus V2, by qxvz
 
 # How to use?
 
-`1` Install [Python 3.12.4](https://www.python.org/downloads/release/python-3124/)
+`1` Install [Python 3.12](https://www.python.org/downloads/release/python-3124/)
 
 `2` Open a command prompt and install the dependencies needed for the tool by pasting the commands below
 ```sh
