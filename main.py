@@ -86,7 +86,7 @@ def main():
     ban = input(" [?] - Ban all members Y/N ").strip().lower() == "y"
 
     if not all([token, spammsg, channelname, servername]) or (spamroles and not rolename):
-        print(" [{Fore.RED}*{Fore.RESET}] All required fields must be filled!")
+        print(" [{Fore.RED}*{Fore.RESET}] All required prompts need to be filled")
         return
 
     asyncio.run(startbot(
