@@ -13,7 +13,7 @@ This is the original repository for Exodus V2, by qxvz
 
 `1` Install [Python 3.12.4](https://www.python.org/downloads/release/python-3124/)
 
-`2` Open a command prompt and run these commands below:
+`2` Open a command prompt and install the dependencies needed for the tool by pasting the commands below
 ```sh
 pip install discord
 ```
