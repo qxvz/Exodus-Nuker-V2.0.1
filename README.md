@@ -3,15 +3,13 @@ Lightweight Open-Source Discord server nuker written in Python.
 
 This is the original repository for Exodus, by qxvz
 
-## Compatability
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-<br>
-
 ![GitHub language percentage](https://img.shields.io/github/languages/top/qxvz/Exodus-V2)
 
 
 ![exodus](https://github.com/user-attachments/assets/8b2719ea-e63f-4f25-beea-d9cc5433c5ab)
+
+## Compatability
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
 
