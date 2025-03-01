@@ -11,7 +11,10 @@ This is the original repository for Exodus V2, by qxvz
 
 # How to use?
 
-Install Python 3.12, then in a command prompt run these commands:
+Install Python 3.12
+[python.org](https://python.org)
+
+After installing Python 3.12, open a command prompt and run these commands below:
 ```sh
 pip install discord
 ```
