@@ -1,6 +1,6 @@
 # Exodus-V2
 Lightweight Open-Source Discord server nuker written in Python.
-
+This is the original repository for Exodus V2, by qxvz
 ![GitHub language percentage](https://img.shields.io/github/languages/top/qxvz/Exodus-V2)
 
 
