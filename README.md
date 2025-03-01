@@ -26,4 +26,4 @@ pip install colorama
 
 `4` Run the main.py file and input your bot token in the prompt. Make sure the bot is in the server.
 
-It would help me with my project if you would star this, thank you for reading.
+### It would help me with my project if you would star this, thank you for reading.
