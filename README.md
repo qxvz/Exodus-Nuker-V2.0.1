@@ -12,7 +12,9 @@ This is the original repository for Exodus V2, by qxvz
 # How to use?
 
 Install Python 3.12, then in a command prompt run these commands:
-```pip install discord```
+  ```sh
+  pip install discord
+  ```
 ```pip install colorama```
 
 After doing that, download the repo as ZIP from the green Code button, and extract it.
