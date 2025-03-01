@@ -25,3 +25,5 @@ pip install colorama
 `3` After doing that, download the repo as ZIP from the green Code button, and extract it.
 
 `4` Run the main.py file and input your bot token in the prompt. Make sure the bot is in the server.
+
+It would help me with my project if you would star this, thank you for reading.
