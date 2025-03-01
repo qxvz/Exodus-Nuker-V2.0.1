@@ -11,9 +11,9 @@ This is the original repository for Exodus V2, by qxvz
 
 # How to use?
 
-Install [Python 3.12.4](https://www.python.org/downloads/release/python-3124/)
+`1` Install [Python 3.12.4](https://www.python.org/downloads/release/python-3124/)
 
-After installing Python 3.12, open a command prompt and run these commands below:
+`2` Open a command prompt and run these commands below:
 ```sh
 pip install discord
 ```
@@ -21,5 +21,4 @@ pip install discord
 pip install colorama
 ```
 
-After doing that, download the repo as ZIP from the green Code button, and extract it.
-Run the main.py file when that is all done, and you are finished.
+`3` After doing that, download the repo as ZIP from the green Code button, and extract it.
