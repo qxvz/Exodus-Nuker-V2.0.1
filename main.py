@@ -32,7 +32,7 @@ def rgbfade(text, start_color, end_color):
     faded_text = "".join(f"{fade_colors[i]}{text[i]}" for i in range(len(text)))
     print(f"{faded_text}{Style.RESET_ALL}")
 
-second_ascii_art = [
+ascii = [
     r"⣤⣤⣤⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡛⠟⢟⡉⠉⢉⣽⣩⡿⠻⢿⢅⡀⠀⣀⠐⠀⠀⠻⣿⡶⠂",
     r"⠉⠉⠉⠉⠉⠛⠛⠛⠛⠛⠻⠿⠿⠿⠿⢿⣿⣶⣿⣷⣯⣷⣶⣿⣿⣿⣯⢥⠀⠂⣅⠠⢱⠀⠁⢇⠐⡒⠀⠻⣧⠀⠀⠀",
     r"⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣌⡑⠊⠀⢀⠙⠆⠀⠠⠀⠍⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
@@ -56,7 +56,7 @@ second_ascii_art = [
 def ascii():
     dark_grey_rgb = (128, 128, 128)
     light_grey_rgb = (255, 255, 255)
-    total_lines = len(second_ascii_art)
+    total_lines = len(ascii)
 
     def colorchange(start_color, end_color, factor):
         return tuple(
@@ -64,7 +64,7 @@ def ascii():
             for start_val, end_val in zip(start_color, end_color)
         )
 
-    for i, line in enumerate(second_ascii_art):
+    for i, line in enumerate(ascii):
         factor = i / (total_lines - 1)
         current_color = colorchange(dark_grey_rgb, light_grey_rgb, factor)
         color_code = f"\033[38;2;{current_color[0]};{current_color[1]};{current_color[2]}m"
