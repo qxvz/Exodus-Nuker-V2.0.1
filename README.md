@@ -8,8 +8,6 @@ This is the original repository for Exodus, by qxvz
 ![Untitled(1)](https://github.com/user-attachments/assets/251d7d81-acea-4c5b-bfda-d6741307cf52)
 
 
-# How to use?
-
 `1` Install [Python 3.12](https://www.python.org/downloads/release/python-3124/)
 
 `2` Open a command prompt and install the dependencies needed for the tool by pasting the commands below
