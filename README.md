@@ -31,4 +31,4 @@ Other nukers are skidded and include HVNC strings in them, (which rats you) whil
 We do not include malicious code against the user.
 Bypasses Discord rate-limit by sending a mass spam first, and then continuing to not go over the rate-limit.
 
-### It would help me with my project if you would star this, thank you for reading.
+### It would be appreciated if you would star this as it would help me
