@@ -7,7 +7,7 @@ This is the original repository for Exodus, by qxvz
 
 ![GitHub language percentage](https://img.shields.io/github/languages/top/qxvz/Exodus-V2)
 
-![screenshot](https://github.com/user-attachments/assets/b2156d38-cb4a-4972-8b47-dbf4c9629e91)
+![Screenshot (2)](https://github.com/user-attachments/assets/f57d0c72-8fad-4021-aaa5-3cfee29221ad)
 
 
 `1` Install [Python 3.12](https://www.python.org/downloads/release/python-3124/)
