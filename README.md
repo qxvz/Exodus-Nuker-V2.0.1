@@ -5,10 +5,8 @@ This is the original repository for Exodus, by qxvz
 
 ![GitHub language percentage](https://img.shields.io/github/languages/top/qxvz/Exodus-V2)
 
+![Untitled(1)](https://github.com/user-attachments/assets/251d7d81-acea-4c5b-bfda-d6741307cf52)
 
-![exodus](https://github.com/user-attachments/assets/8b2719ea-e63f-4f25-beea-d9cc5433c5ab)
-
-<br>
 
 # How to use?
 
