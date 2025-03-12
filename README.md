@@ -7,10 +7,6 @@ This is the original repository for Exodus, by qxvz
 
 ![GitHub language percentage](https://img.shields.io/github/languages/top/qxvz/Exodus-V2)
 
-
-![screen](https://github.com/user-attachments/assets/3f86bd9c-cc3a-4c4f-8370-44f7a7393afd)
-
-
 `1` Install [Python 3.12](https://www.python.org/downloads/release/python-3124/)
 
 `2` Open a command prompt and install the dependencies needed for the tool by pasting the commands below
