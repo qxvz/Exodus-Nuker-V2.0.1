@@ -20,10 +20,3 @@ pip install colorama
 `3` After doing that, download the repo as ZIP from the green Code button, and extract it.
 
 `4` Run the main.py file and input your bot token in the prompt. Make sure the bot is in the server.
-
-# What makes it better then other nukers on Github?
-Other nukers are skidded and include HVNC strings in them, (which rats you) while Exodus V2 is open-source and written in python, easy to use and understand.
-We do not include malicious code against the user.
-Bypasses Discord rate-limit by sending a mass spam first, and then continuing to not go over the rate-limit.
-
-### It would be appreciated if you would star this as it would help me
